@@ -1,25 +1,25 @@
 fun main()
 {
     print("Enter Enrollment number:")
-    val en = readLine()!!.toInt()
+    val en = readLine()
 
     print("Enter your name:")
     val name = readLine()!!.toString()
 
     print("Enter your Branch:")
-    val branch = readLine()!!.toInt()
+    val branch = readLine()!!.toString()
 
     print("Enter your class:")
-    val clas = readLine()!!.toInt()
+    val clas = readLine()!!.toString()
 
     print("Enter your Batch:")
-    val batch = readLine()!!.toInt()
+    val batch = readLine()
 
     print("Enter your collage name:")
-    val clg = readLine()!!.toInt()
+    val clg = readLine()!!.toString()
 
     print("Enter your University name:")
-    val uni = readLine()!!.toInt()
+    val uni = readLine()!!.toString()
 
     print("Enter your age:")
     val age = readLine()!!.toInt()
